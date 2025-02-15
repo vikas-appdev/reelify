@@ -24,6 +24,12 @@ C:\codes\front-end\nextjss>npx create-next-app@latest
 npm i mongoose
 ```
 
+```bash
+npm i bcryptjs
+```
+
+
+
 
 
 
