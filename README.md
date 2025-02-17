@@ -28,6 +28,10 @@ npm i mongoose
 npm i bcryptjs
 ```
 
+```
+npm i next-auth
+```
+
 
 
 
