@@ -28,9 +28,21 @@ npm i mongoose
 npm i bcryptjs
 ```
 
-```
+```bash
 npm i next-auth
 ```
+
+```bash
+npm i imagekit
+```
+```bash
+npm install imagekitio-next
+```
+
+```bash
+npm i lucide-react
+```
+
 
 
 
