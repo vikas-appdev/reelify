@@ -42,6 +42,10 @@ npm install imagekitio-next
 ```bash
 npm i lucide-react
 ```
+```bash
+npm i -D daisyui@latest
+```
+
 
 
 
